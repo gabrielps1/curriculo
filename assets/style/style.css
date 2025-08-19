@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+ @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Nata+Sans:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.nomePrincipal {
+    color: #004AAD;
+    font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder
+}
+
+.nomeSecundario {
+    color: #545454;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    font-weight: lighter;
+    
+}
+
+.header-bar {
+    background-color: #004AAD;
+    width: 350px;
+    height: 50px;
+    border-radius: 0 10px 10px 0;
+}
+
+
+.label {
+    color: #004AAD;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ul {
+    font-family: 'Calibri';
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #1c7bda
+}
+
+a:hover {
+    color: #155CA2;
+}
+
+h1 {
+    color: #004AAD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    border-color: #2A68BB;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-indent: 5px;
+}
