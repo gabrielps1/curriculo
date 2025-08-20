@@ -2,6 +2,10 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Nata+Sans:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+body {
+    background-color: rgb(239, 252, 252);
+}
+
 .nomePrincipal {
     color: #004AAD;
     font-size: 42px;
@@ -29,6 +33,7 @@
     color: #004AAD;
     font-weight: bold;
     font-size: 18px;
+    
 }
 
 ul {
@@ -45,10 +50,11 @@ a:hover {
     color: #155CA2;
 }
 
-h1 {
+h1,h2 {
     color: #004AAD;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 hr {
     border-color: #2A68BB;
